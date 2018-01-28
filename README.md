@@ -130,4 +130,10 @@ o Cast (Casts of the Movie) - Name and Image
 
 o Crew (Casts of the Movie) - Name and Image
 
-   I have run this app on 
+   I have run this app on API 23 and 27 .
+   
+   ScreenShots of the output has been added .
+   
+   APK file has been added .
+   
+   
